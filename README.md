@@ -1,1 +1,9 @@
-# myblock
+# Installation
+
+- Clone repository into your local `/wp-content/plugins/` folder.
+- Open a terminal window inside the root plugin directory and run:
+  - `npm i`
+  - `npm start`
+- Activate the plugin inside WordPress admin.
+- Add the `myblock` block to a page.
+- Start customizing the plugin!
