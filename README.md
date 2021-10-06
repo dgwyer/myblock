@@ -1,4 +1,4 @@
-# Installation
+# Installation & Usage
 
 - Clone repository into your local `/wp-content/plugins/` folder.
 - Open a terminal window inside the root plugin directory and run:
